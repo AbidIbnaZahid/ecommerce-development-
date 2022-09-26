@@ -1,0 +1,16 @@
+.sharp.btn-xs {
+    padding: 3px;
+    width: 36px;
+    height: 36px;
+    min-width: 36px;
+    min-height: 36px;
+}
+
+.myicon {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.new-arrival-content .price {
+    float: left;
+}
